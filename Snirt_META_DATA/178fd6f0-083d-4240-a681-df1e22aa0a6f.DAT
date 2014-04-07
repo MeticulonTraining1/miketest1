@@ -11,8 +11,8 @@
     <Comment>
       <DocumentPath>example1.docx</DocumentPath>
       <Text />
-      <CommentDateTime>2014-04-07T09:55:23.7497631-07:00</CommentDateTime>
-      <Vote>1</Vote>
+      <CommentDateTime>2014-04-07T09:56:57.1169039-07:00</CommentDateTime>
+      <Vote>-1</Vote>
       <CommitId>b504ef7e60677815ddac98538cbca0b22dfd6cd3</CommitId>
     </Comment>
   </Comments>
