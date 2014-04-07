@@ -9,11 +9,7 @@
   <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwAAADsABataJCQAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
   <Comments />
   <MergeConflicts />
-  <Follows>
-    <Follow>
-      <DocumentPath>example1.docx</DocumentPath>
-    </Follow>
-  </Follows>
+  <Follows />
   <FileVersionCommitExtensions>
     <FileVersionCommitExtension>
       <DocumentPath>C:\Users\Admin\Documents\Miketest1\example1.docx</DocumentPath>
@@ -21,14 +17,6 @@
       <CommitDateTime>2014-03-25T08:42:11</CommitDateTime>
       <CommitId>4094fd9362c05d9cc947a38d706df6b9156ff3a3</CommitId>
       <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwQAADsEBuJFr7QAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</DocumentThumbnailBitmap>
-      <UserId>178fd6f0-083d-4240-a681-df1e22aa0a6f</UserId>
-    </FileVersionCommitExtension>
-    <FileVersionCommitExtension>
-      <DocumentPath>example1.docx</DocumentPath>
-      <CommitComment>some stuff</CommitComment>
-      <CommitDateTime>2014-04-07T09:53:48</CommitDateTime>
-      <CommitId>b504ef7e60677815ddac98538cbca0b22dfd6cd3</CommitId>
-      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI4SURBVHhe7dZdT9pQAMZxv/93cTcmRqKZQRRoKy0OyxwZXHBDZuLkpby4As/OOs2yZDPL4sVz8f8lJ4Wetlz8c8o5EKwcaL/XZDJRuS21DePF9OuDNt9KbVaFtnupLH/OLYqF1ptN9fnHPS/nl8uiOv5mv9Pm6en5C/5FtUJ6N11dX0eK00yDwUBpJ1XUbuj49Fy33Vj1xpXaSabLi7rSm0zvz2o6Oq6p/7GnRrOtLNzXbF6qdnKi0Wiod4eHuqjX1WzUdXoejlctteO4+kG87r9eWbvdLiyssGz+4k9zr12PX/gPMUMQMwQxU+2yRsOh5vO5ZmGs1mutw5jPZiqKZRgLzaePenichp3USvf3X8JOq9AynJ9OZ8+PwVupVsjnsLPK8w/K7z5pPB6rn+eKWi11u92we4p02wtz/Tt10lRJkijNMnWSWFEUq1itqwfhbfDKMkMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEMUMQMwQxQxAzBDFDEDMEsSJ9B2eEj8YwCHPxAAAAAElFTkSuQmCC</DocumentThumbnailBitmap>
       <UserId>178fd6f0-083d-4240-a681-df1e22aa0a6f</UserId>
     </FileVersionCommitExtension>
   </FileVersionCommitExtensions>
